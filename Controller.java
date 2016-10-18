@@ -4,6 +4,7 @@ public class Controller{
         int result = num+10;
         int mul = result*2;
         int mul2 = mul*2;
+        String time2230 = "2230";
         System.out.println(result);
     }
 }
