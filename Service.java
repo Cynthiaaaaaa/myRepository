@@ -1,5 +1,6 @@
 public class Service{
     public static int getSum(int a,int b){
-        return a+b;
+       int result = a+b;
+       return result;
     }
 }
