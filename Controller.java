@@ -5,6 +5,7 @@ public class Controller{
         int mul = result*2;
         int mul2 = mul*2;
         String time2230 = "2230";
+        String time1311 = "1311";
         System.out.println(result);
     }
 }
