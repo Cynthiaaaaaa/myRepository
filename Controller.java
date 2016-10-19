@@ -12,5 +12,6 @@ public class Controller{
         int time1700 = 1700;
         String str = "this is in myRepository";
         String str = "this is in storehouse";
+        String str1 = "modify twice in myRepository";
     }
 }
