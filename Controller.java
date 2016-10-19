@@ -7,7 +7,7 @@ public class Controller{
         String time2230 = "2230";
         String time1311 = "1311";
         String time1315 = "1315";
-
+        String time1318 = "1318";
         System.out.println(result);
     }
 }
