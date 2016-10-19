@@ -6,4 +6,5 @@ public class AdminVO{
     public String getAdminname(){
         return this.adminname;
     }
+    private int time;
 }
