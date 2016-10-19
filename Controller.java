@@ -6,6 +6,8 @@ public class Controller{
         int mul2 = mul*2;
         String time2230 = "2230";
         String time1311 = "1311";
+        String time1315 = "1315";
+
         System.out.println(result);
     }
 }
