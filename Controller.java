@@ -14,5 +14,6 @@ public class Controller{
         String str = "this is in storehouse";
         String str1 = "modify twice in myRepository";
         double d11271 = 17.51;
+        double d1752 = 17.52;
     }
 }
